@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a school project for an AI ChatBot, alongside a couple other personal projects.
 - 🌱 I’m currently studying Software Engineering at the University Applied Science of Rotterdam.
-- 📫 How to reach me: Message me on my LinkedIn, find it below in my BIO.
+- 📫 How to reach me: Message me on my LinkedIn, (https://www.linkedin.com/in/john-wartan-4a54512b6/).
 
 <!--
 **JohnWartan/JohnWartan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
